@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Agustín 👋
 
-<!--
-**AgustinPereezBarrionuevo/AgustinPereezBarrionuevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnico Superior en Programación (UTN), buscando mi primer trabajo como desarrollador full stack.
 
-Here are some ideas to get you started:
+## En qué trabajo
+- **Frontend:** React
+- **Backend:** Node.js, Express
+- **Base de datos:** PostgreSQL, SQL
+- **Venía de:** C# y SQL en la facultad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyecto destacado
+**[Anime Tracker](https://github.com/AgustinPereezBarrionuevo/anime-tracker)**: app full stack con login, base de datos en la nube y deploy. [Ver demo](https://anime-tracker-two-xi.vercel.app)
+
+## Ahora estoy
+- Armando un segundo proyecto con TypeScript, tests y Docker
+- Practicando inglés
+
+## Contacto
+[LinkedIn](tu-link-acá) · perezagustin010@gmail.com
