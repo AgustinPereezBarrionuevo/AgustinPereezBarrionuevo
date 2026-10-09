@@ -1,4 +1,4 @@
-# Hola, soy Agustín 👋
+# Hola, soy Agustín 
 
 Técnico Superior en Programación (UTN), buscando mi primer trabajo como desarrollador full stack.
 
