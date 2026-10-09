@@ -16,4 +16,4 @@ Técnico Superior en Programación (UTN), buscando mi primer trabajo como desarr
 - Practicando inglés
 
 ## Contacto
-[LinkedIn](linkedin.com/in/agustin-perez-barrionuevo-35a462391) · perezagustin010@gmail.com
+[LinkedIn](linkedin.com/in/agustin-perez-barrionuevo-35a462391) · agustin_0100@hotmail.com
